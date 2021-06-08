@@ -45,7 +45,7 @@
 
 ### 7 семестр
 
-## Лабораторные работы:
+#### Лабораторные работы:
 
 <a href = "https://github.com/herzenuni/sem7-task1-Sukhacheva">Лабораторная работа № 1. </a>
 
@@ -59,7 +59,7 @@
 
 <a href = "https://github.com/Sukhacheva/lab_6">Лабораторная работа № 6. </a>
 
-## Инвариантные самостояленые работы:
+#### Инвариантные самостояленые работы:
 
 <a href = "https://github.com/herzenuni/sem7-isr-vsr-Sukhacheva/tree/main/isr1"> ИСР № 1. </a>
 
@@ -70,7 +70,7 @@
 <a href = "https://github.com/Sukhacheva/isr4"> ИСР № 4. </a>
 
 
-## Вариативные самостояленые работы:
+#### Вариативные самостояленые работы:
 
 <a href = "https://github.com/herzenuni/sem7-isr-vsr-Sukhacheva/blob/main/VSR1.md"> ВСР № 1. </a>
 
